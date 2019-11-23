@@ -1,0 +1,155 @@
+#carouselExampleControls {
+    width: 2000px;
+}
+
+#sss {
+    background-image: url("../imgg/ccover.png")
+}
+
+.fff {
+    font-family: cursive;
+    color: #000000;
+    font-size-adjust: initial;
+    text-align: center;
+}
+
+#zx {
+    padding: 50px;
+}
+
+.by {
+    background-color: darksalmon;
+}
+
+.av {
+    background-color: #ffcccc;
+}
+
+#fo {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+.tt {
+    text-align: center;
+}
+
+#btnScroll {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+    z-index: 99px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.business {
+    background: #fff;
+    padding: 10px 10px;
+    border: 1px solid #ececec;
+    box-shadow: 2px 2px 5px 0 rgba(55, 50, 40, 0.20);
+    -webkit-box-shadow: 2px 2px 5px 0 rgba(55, 50, 40, 0.20);
+    -moz-box-shadow: 2px 2px 5px 0 rgba(55, 50, 40, 0.20);
+    -o-box-shadow: 2px 2px 5px 0 rgba(55, 50, 40, 0.20);
+    -ms-box-shadow: 2px 2px 5px 0 rgba(55, 50, 40, 0.20);
+    transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+}
+
+.business:hover {
+    background: #82ca9c;
+    color: #fff;
+}
+
+.business:hover i {
+    color: #fff;
+    ;
+}
+
+.business:hover h4 {
+    color: #fff;
+    ;
+}
+
+.business:hover p {
+    color: #fff;
+    ;
+}
+
+#cf {
+    color: #ff3300;
+}
+
+.business i {
+    font-size: 60px;
+    color: #82ca9c;
+    margin-bottom: 20px;
+}
+
+.business h4 {
+    font-size: 16px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: 15px;
+}
+
+.businessm p {
+    font-size: 12px;
+    columns: #777777;
+}
+
+#fontt {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+}
+
+#ico {
+    background-color: #ffbb99;
+}
+
+#info {
+    background-color: #ffffcc;
+}
+
+#Samples {
+    background-color: hsl(19, 100%, 95%);
+}
+
+#iii {
+    color: #000;
+}
+
+#care {
+    background-color: #e6ffff;
+}
+
+#Donors {
+    background-image: url(../imgg/mt3.jpg)
+}
+
+#formm {
+    width: 800px;
+    height: 500px;
+    background-color: rgba(55, 50, 40, 0.20);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+#labell {
+    color: #000;
+}
+
+#ttable {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#leukemia {
+    background-color: rgb(219, 191, 188);
+}

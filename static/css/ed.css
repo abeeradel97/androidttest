@@ -153,3 +153,30 @@
 #leukemia {
     background-color: rgb(219, 191, 188);
 }
+#ttop{
+    padding-bottom:20px;
+}
+@media(max-width:1000px){
+    #hello{
+        width:800px;
+    }
+    #ioco{
+        padding-top:30px;
+    }
+}
+@media(max-width:800px){
+    #hello{
+        width:800px;
+    }
+    #ioco{
+        padding-top:30px;
+    }
+}
+@media(max-width:99px){
+    #hello{
+        width:800px;
+    }
+    #ioco{
+        padding-top:30px;
+    }
+}
